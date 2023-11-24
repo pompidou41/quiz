@@ -32,3 +32,7 @@ question2.createFile();
 question3.createFile();
 question4.createFile();
 question5.createFile();
+
+const newYearQuestions = [question1, question2, question3, question4, question4];
+
+module.exports = { newYearQuestions };
