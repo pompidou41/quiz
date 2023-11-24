@@ -4,7 +4,7 @@ const question1 = new Question({theme: 'Новый год', text: 'Кто пер
 const question2 = new Question({theme: 'Новый год', text: 'Кто весь Новый год проводит стоя, не пьёт, не ест и уйти не может?', answer: 'Ёлка'});
 const question3 = new Question({theme: 'Новый год', text: 'Сколько раз бьют часы в новогоднюю ночь?', answer: '12'});
 const question4 = new Question({theme: 'Новый год', text: 'Где находится резиденция Санта-Клауса?', answer: 'Лапландия'});
-const question5 = new Question({theme: 'Новый год', text: 'На каком полюсе земного шара холоднее всего?', answer: 'Южном', points: 200});
+const question5 = new Question({theme: 'Новый год', text: 'Какой фильм показывается перед Новым годом на российском телевидении вот уже 40 лет подряд?', answer: 'Ирония судьбы', points: 200});
 
 
 question1.createFile();
