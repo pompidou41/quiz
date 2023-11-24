@@ -32,3 +32,13 @@ secondQuestion.createFile();
 thirdQuestion.createFile();
 fourthQuestion.createFile();
 fifthQuestion.createFile();
+
+const elbrusQuestions = [
+  firstQuestion,
+  secondQuestion,
+  thirdQuestion,
+  fourthQuestion,
+  fifthQuestion,
+];
+
+module.exports = { elbrusQuestions };
