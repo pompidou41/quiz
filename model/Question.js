@@ -17,15 +17,3 @@ class Question {
     );
   }
 }
-
-// let day = new Question({
-//   theme: 'факты',
-//   text: 'Правда ли в дне 24 час?',
-//   answer: 'да',
-// });
-// let week = new Question({
-//   theme: 'данетка',
-//   text: 'Правда ли в неделе 24 час?',
-//   answer: 'нет',
-//   points: 150,
-// });
